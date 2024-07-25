@@ -1,27 +1,10 @@
-## Project Platform_Blog 
-start date: 10/09/2023
+## Note
+This github repo is a duplicate of the original files that is now deprecated.
 
+The purpose of this repo is purely for showcasing some of my projects.
 
-## Project Setup
+## Project Timeline
+OCT 2023 ~ NOV 2023
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## Collaborator
+ofins
